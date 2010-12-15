@@ -1,4 +1,9 @@
 
+0.2.0 / 2010-12-15 
+==================
+
+  * Fixed issue with complete callback not being registered. Closes #5
+
 0.1.2 / 2010-07-28
 ==================
 

@@ -5,10 +5,6 @@ Connect Form is a multipart / urlencoded form parsing middleware utilizing [node
 
 ## Installation
 
-Via git:
-
-    $ git clone git://github.com/visionmedia/connect-form.git ~/.node_libraries/connect-form
-
 via npm:
 
 	$ npm install connect-form
