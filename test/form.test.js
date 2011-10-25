@@ -128,7 +128,7 @@ exports['test urlencoded'] = function(assert){
 
 exports['test bodyDecoder'] = function(assert){
     var server = connect.createServer(
-        connect.bodyDecoder(),
+        connect.bodyParser(),
         form(),
         function(req, res){
             res.writeHead(200, {});
