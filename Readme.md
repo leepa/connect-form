@@ -1,7 +1,7 @@
 
 # Connect Form
 
-Connect Form is a multipart / urlencoded form parsing middleware utilizing [node-formidable](http://github.com/felixge/node-formidable) behind the scenes.
+Connect Form is a multipart / urlencoded form parsing middleware utilizing [node-formidable](http://github.com/felixge/node-formidable) behind the scenes. You may also want to try [parted](https://github.com/visionmedia/parted).
 
 ## Installation
 
