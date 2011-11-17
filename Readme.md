@@ -1,7 +1,9 @@
 
 # Connect Form
 
-Connect Form is a multipart / urlencoded form parsing middleware utilizing [node-formidable](http://github.com/felixge/node-formidable) behind the scenes. You may also want to try [parted](https://github.com/visionmedia/parted).
+Connect Form is a multipart / urlencoded form parsing middleware utilizing [node-formidable](http://github.com/felixge/node-formidable) behind the scenes.
+
+ This module is now deprecated and will eventually be removed, Connect >= 1.8.0 `bodyParser()` supports multipart/form-data, populating `req.body` much like application/json. An alternative to the core's `bodyParser()` is [parted](https://github.com/visionmedia/parted).
 
 ## Installation
 
